@@ -1,0 +1,196 @@
+﻿event_date,event_time,event_name,user_pseudo_id,page_url,page_title,session_id,lynote_user_id,device_type,country
+20260513,2026-05-13 12:52:13,cancel_sub_reason_view,1553701550.1775609768,https://lynote.ai/es/pricing,Lynote,,f5680b3d4f47c547affc21b633aa1e03,desktop,Ecuador
+20260513,2026-05-13 12:52:13,cancel_sub_submit,1553701550.1775609768,https://lynote.ai/es/pricing,Lynote,,f5680b3d4f47c547affc21b633aa1e03,desktop,Ecuador
+20260513,2026-05-13 12:52:13,cancel_sub_success,1553701550.1775609768,https://lynote.ai/es/pricing,Lynote,,f5680b3d4f47c547affc21b633aa1e03,desktop,Ecuador
+20260513,2026-05-13 03:27:01,cancel_sub_reason_view,1688621721.1778613890,https://lynote.ai/zh/pricing,Lynote,,1adcbcc00dbd483efcf23b9c337b0079,mobile,Spain
+20260513,2026-05-13 03:27:08,cancel_sub_submit,1688621721.1778613890,https://lynote.ai/zh/pricing,Lynote,,1adcbcc00dbd483efcf23b9c337b0079,mobile,Spain
+20260513,2026-05-13 03:27:08,cancel_sub_success,1688621721.1778613890,https://lynote.ai/zh/pricing,Lynote,,1adcbcc00dbd483efcf23b9c337b0079,mobile,Spain
+20260513,2026-05-13 00:00:03,cancel_sub_reason_view,1449462040.1778589351,https://lynote.ai/zh/pricing,Lynote,,247478ce8bc3ecf77fee565e30ac6359,desktop,Australia
+20260513,2026-05-13 00:00:03,cancel_sub_submit,1449462040.1778589351,https://lynote.ai/zh/pricing,Lynote,,247478ce8bc3ecf77fee565e30ac6359,desktop,Australia
+20260513,2026-05-13 00:00:03,cancel_sub_success,1449462040.1778589351,https://lynote.ai/zh/pricing,Lynote,,247478ce8bc3ecf77fee565e30ac6359,desktop,Australia
+20260513,2026-05-13 00:23:31,cancel_sub_reason_view,646318078.1778601921,https://lynote.ai/zh/pricing,Lynote,,a04329c52d94ad5deacf64703ddf954c,desktop,Hong Kong
+20260513,2026-05-13 00:23:38,cancel_sub_submit,646318078.1778601921,https://lynote.ai/zh/pricing,Lynote,,a04329c52d94ad5deacf64703ddf954c,desktop,Hong Kong
+20260513,2026-05-13 00:23:38,cancel_sub_success,646318078.1778601921,https://lynote.ai/zh/pricing,Lynote,,a04329c52d94ad5deacf64703ddf954c,desktop,Hong Kong
+20260513,2026-05-13 00:51:16,cancel_sub_reason_view,2293072.1777995100,https://lynote.ai/zh/pricing,Lynote,,aa9e81dabfed8479642b3ad8cad457cc,desktop,United Kingdom
+20260513,2026-05-13 00:51:22,cancel_sub_submit,2293072.1777995100,https://lynote.ai/zh/pricing,Lynote,,aa9e81dabfed8479642b3ad8cad457cc,desktop,United Kingdom
+20260513,2026-05-13 00:51:22,cancel_sub_success,2293072.1777995100,https://lynote.ai/zh/pricing,Lynote,,aa9e81dabfed8479642b3ad8cad457cc,desktop,United Kingdom
+20260513,2026-05-13 01:15:09,cancel_sub_submit,238870651.1778606074,https://lynote.ai/pricing,Lynote,,22f25b6204813ff3ac0ea58060c22b5b,desktop,Singapore
+20260513,2026-05-13 01:15:09,cancel_sub_success,238870651.1778606074,https://lynote.ai/pricing,Lynote,,22f25b6204813ff3ac0ea58060c22b5b,desktop,Singapore
+20260513,2026-05-13 01:15:05,cancel_sub_reason_view,238870651.1778606074,https://lynote.ai/pricing,Lynote,,22f25b6204813ff3ac0ea58060c22b5b,desktop,Singapore
+20260509,2026-05-09 10:41:01,cancel_sub_reason_view,902833683.1778293346,https://lynote.ai/de/settings,Lynote,,49a282e9ba13490236bb0b521261474e,desktop,Türkiye
+20260509,2026-05-09 10:41:29,cancel_sub_submit,902833683.1778293346,https://lynote.ai/de/settings,Lynote,,49a282e9ba13490236bb0b521261474e,desktop,Türkiye
+20260509,2026-05-09 10:41:29,cancel_sub_success,902833683.1778293346,https://lynote.ai/de/settings,Lynote,,49a282e9ba13490236bb0b521261474e,desktop,Türkiye
+20260509,2026-05-09 12:07:00,cancel_sub_reason_view,1127659088.1777682996,https://lynote.ai/zh/settings,Lynote,,f572c2a69ad4a38cd08040d9e755cec3,desktop,United States
+20260509,2026-05-09 12:07:00,cancel_sub_submit,1127659088.1777682996,https://lynote.ai/zh/settings,Lynote,,f572c2a69ad4a38cd08040d9e755cec3,desktop,United States
+20260509,2026-05-09 12:07:00,cancel_sub_success,1127659088.1777682996,https://lynote.ai/zh/settings,Lynote,,f572c2a69ad4a38cd08040d9e755cec3,desktop,United States
+20260509,2026-05-09 08:42:18,cancel_sub_reason_view,2013969293.1778285884,https://lynote.ai/zh/settings,Lynote,,fb121a43e39499689a07609cb7b5b671,desktop,United Kingdom
+20260509,2026-05-09 08:42:18,cancel_sub_submit,2013969293.1778285884,https://lynote.ai/zh/settings,Lynote,,fb121a43e39499689a07609cb7b5b671,desktop,United Kingdom
+20260509,2026-05-09 08:42:18,cancel_sub_success,2013969293.1778285884,https://lynote.ai/zh/settings,Lynote,,fb121a43e39499689a07609cb7b5b671,desktop,United Kingdom
+20260509,2026-05-09 06:25:15,cancel_sub_reason_view,1079536526.1773984409,https://lynote.ai/zh/settings,Lynote,,512e91732f8381dc79e77163e0c593ed,desktop,Australia
+20260509,2026-05-09 06:25:20,cancel_sub_submit,1079536526.1773984409,https://lynote.ai/zh/settings,Lynote,,512e91732f8381dc79e77163e0c593ed,desktop,Australia
+20260509,2026-05-09 06:25:20,cancel_sub_success,1079536526.1773984409,https://lynote.ai/zh/settings,Lynote,,512e91732f8381dc79e77163e0c593ed,desktop,Australia
+20260509,2026-05-09 19:43:29,cancel_sub_reason_view,48817979.1776269290,https://lynote.ai/zh/settings,Lynote,,c12c8a380a170c26e0473dcca27c155a,desktop,United Kingdom
+20260509,2026-05-09 19:43:29,cancel_sub_submit,48817979.1776269290,https://lynote.ai/zh/settings,Lynote,,c12c8a380a170c26e0473dcca27c155a,desktop,United Kingdom
+20260509,2026-05-09 19:43:29,cancel_sub_success,48817979.1776269290,https://lynote.ai/zh/settings,Lynote,,c12c8a380a170c26e0473dcca27c155a,desktop,United Kingdom
+20260509,2026-05-09 08:56:38,cancel_sub_reason_view,1493064127.1778282581,https://lynote.ai/settings,Lynote,,1e0108a21ffad169a5a508a0cbeb0569,desktop,United States
+20260509,2026-05-09 08:56:42,cancel_sub_submit,1493064127.1778282581,https://lynote.ai/settings,Lynote,,1e0108a21ffad169a5a508a0cbeb0569,desktop,United States
+20260509,2026-05-09 08:56:42,cancel_sub_success,1493064127.1778282581,https://lynote.ai/settings,Lynote,,1e0108a21ffad169a5a508a0cbeb0569,desktop,United States
+20260509,2026-05-09 10:52:01,cancel_sub_reason_view,2011671875.1777722173,https://lynote.ai/settings,Lynote,,b848c41d57d0258e55dda172e2232c1c,desktop,United States
+20260509,2026-05-09 10:52:01,cancel_sub_submit,2011671875.1777722173,https://lynote.ai/settings,Lynote,,b848c41d57d0258e55dda172e2232c1c,desktop,United States
+20260509,2026-05-09 10:52:01,cancel_sub_success,2011671875.1777722173,https://lynote.ai/settings,Lynote,,b848c41d57d0258e55dda172e2232c1c,desktop,United States
+20260509,2026-05-09 14:16:42,cancel_sub_reason_view,1237826903.1778305409,https://lynote.ai/zh/settings,Lynote,,019127e157bbb992c09c65eeb71672f7,desktop,Singapore
+20260509,2026-05-09 14:16:51,cancel_sub_submit,1237826903.1778305409,https://lynote.ai/zh/settings,Lynote,,019127e157bbb992c09c65eeb71672f7,desktop,Singapore
+20260509,2026-05-09 14:16:51,cancel_sub_success,1237826903.1778305409,https://lynote.ai/zh/settings,Lynote,,019127e157bbb992c09c65eeb71672f7,desktop,Singapore
+20260510,2026-05-10 06:50:36,cancel_sub_reason_view,295468222.1776637345,https://lynote.ai/pt/pricing,Lynote,,363f024c31ff45843b05aa065a75b3dc,desktop,Brazil
+20260510,2026-05-10 06:50:47,cancel_sub_submit,295468222.1776637345,https://lynote.ai/pt/pricing,Lynote,,363f024c31ff45843b05aa065a75b3dc,desktop,Brazil
+20260510,2026-05-10 06:50:47,cancel_sub_success,295468222.1776637345,https://lynote.ai/pt/pricing,Lynote,,363f024c31ff45843b05aa065a75b3dc,desktop,Brazil
+20260510,2026-05-10 16:00:27,cancel_sub_reason_view,612371475.1778181956,https://lynote.ai/zh/pricing,Lynote,,40f8c35b9ba3309c6d5fa320e0ea6801,desktop,Singapore
+20260510,2026-05-10 16:00:27,cancel_sub_submit,612371475.1778181956,https://lynote.ai/zh/pricing,Lynote,,40f8c35b9ba3309c6d5fa320e0ea6801,desktop,Singapore
+20260510,2026-05-10 16:00:27,cancel_sub_success,612371475.1778181956,https://lynote.ai/zh/pricing,Lynote,,40f8c35b9ba3309c6d5fa320e0ea6801,desktop,Singapore
+20260510,2026-05-10 05:18:16,cancel_sub_reason_view,1682123084.1778101670,https://lynote.ai/zh/pricing,Lynote,,9fba87ad4385147c11c1a0aaf1cfdc3c,desktop,Hungary
+20260510,2026-05-10 05:18:16,cancel_sub_submit,1682123084.1778101670,https://lynote.ai/zh/pricing,Lynote,,9fba87ad4385147c11c1a0aaf1cfdc3c,desktop,Hungary
+20260510,2026-05-10 05:18:16,cancel_sub_success,1682123084.1778101670,https://lynote.ai/zh/pricing,Lynote,,9fba87ad4385147c11c1a0aaf1cfdc3c,desktop,Hungary
+20260510,2026-05-10 03:21:14,cancel_sub_reason_view,868821214.1778354297,https://lynote.ai/pricing,Lynote,,ded7d7fc9c6791405a32b8c460be2e2f,desktop,United States
+20260510,2026-05-10 03:21:20,cancel_sub_submit,868821214.1778354297,https://lynote.ai/pricing,Lynote,,ded7d7fc9c6791405a32b8c460be2e2f,desktop,United States
+20260510,2026-05-10 03:21:20,cancel_sub_success,868821214.1778354297,https://lynote.ai/pricing,Lynote,,ded7d7fc9c6791405a32b8c460be2e2f,desktop,United States
+20260510,2026-05-10 03:56:54,cancel_sub_reason_view,1008980797.1778332649,https://lynote.ai/es/pricing,Lynote,,076ca9d513923a1df772e48aa446b49d,desktop,Mexico
+20260510,2026-05-10 03:57:05,cancel_sub_submit,1008980797.1778332649,https://lynote.ai/es/pricing,Lynote,,076ca9d513923a1df772e48aa446b49d,desktop,Mexico
+20260510,2026-05-10 03:57:05,cancel_sub_success,1008980797.1778332649,https://lynote.ai/es/pricing,Lynote,,076ca9d513923a1df772e48aa446b49d,desktop,Mexico
+20260508,2026-05-08 22:13:57,cancel_sub_reason_view,1082529809.1777976841,https://lynote.ai/zh/settings,Lynote,,b887713be27bf26e9a845680dca07168,desktop,Singapore
+20260508,2026-05-08 22:14:04,cancel_sub_submit,1082529809.1777976841,https://lynote.ai/zh/settings,Lynote,,b887713be27bf26e9a845680dca07168,desktop,Singapore
+20260508,2026-05-08 22:14:04,cancel_sub_success,1082529809.1777976841,https://lynote.ai/zh/settings,Lynote,,b887713be27bf26e9a845680dca07168,desktop,Singapore
+20260508,2026-05-08 15:51:57,cancel_sub_reason_view,1915328225.1778066304,https://lynote.ai/zh/settings,Lynote,,2c2ddea4cb1faa5ab278887646b4f82c,desktop,United States
+20260508,2026-05-08 15:51:57,cancel_sub_submit,1915328225.1778066304,https://lynote.ai/zh/settings,Lynote,,2c2ddea4cb1faa5ab278887646b4f82c,desktop,United States
+20260508,2026-05-08 15:52:03,cancel_sub_success,1915328225.1778066304,https://lynote.ai/zh/settings,Lynote,,2c2ddea4cb1faa5ab278887646b4f82c,desktop,United States
+20260508,2026-05-08 04:51:08,cancel_sub_reason_view,172292089.1777669482,https://lynote.ai/zh/settings,Lynote,,510764db3cddebe2fbea4dfa17e053b6,desktop,France
+20260508,2026-05-08 04:51:08,cancel_sub_submit,172292089.1777669482,https://lynote.ai/zh/settings,Lynote,,510764db3cddebe2fbea4dfa17e053b6,desktop,France
+20260508,2026-05-08 04:51:08,cancel_sub_success,172292089.1777669482,https://lynote.ai/zh/settings,Lynote,,510764db3cddebe2fbea4dfa17e053b6,desktop,France
+20260508,2026-05-08 04:47:27,cancel_sub_reason_view,1108369884.1778186441,https://lynote.ai/it/settings,Lynote,,a25ea116514e4aa50d5fc87cf9dd5f1e,desktop,Italy
+20260508,2026-05-08 04:47:27,cancel_sub_submit,1108369884.1778186441,https://lynote.ai/it/settings,Lynote,,a25ea116514e4aa50d5fc87cf9dd5f1e,desktop,Italy
+20260508,2026-05-08 04:47:27,cancel_sub_success,1108369884.1778186441,https://lynote.ai/it/settings,Lynote,,a25ea116514e4aa50d5fc87cf9dd5f1e,desktop,Italy
+20260508,2026-05-08 12:39:48,cancel_sub_reason_view,211648671.1778215019,https://lynote.ai/zh/settings,Lynote,,064dd31fa7add15a765976aa400f1828,desktop,United Kingdom
+20260508,2026-05-08 12:39:53,cancel_sub_submit,211648671.1778215019,https://lynote.ai/zh/settings,Lynote,,064dd31fa7add15a765976aa400f1828,desktop,United Kingdom
+20260508,2026-05-08 12:39:53,cancel_sub_success,211648671.1778215019,https://lynote.ai/zh/settings,Lynote,,064dd31fa7add15a765976aa400f1828,desktop,United Kingdom
+20260508,2026-05-08 21:54:28,cancel_sub_reason_view,683211171.1778248262,https://lynote.ai/zh/settings,Lynote,,d74cc227c9f45933e773f2bff35ff6b6,tablet,Italy
+20260508,2026-05-08 21:54:33,cancel_sub_submit,683211171.1778248262,https://lynote.ai/zh/settings,Lynote,,d74cc227c9f45933e773f2bff35ff6b6,tablet,Italy
+20260508,2026-05-08 21:54:33,cancel_sub_success,683211171.1778248262,https://lynote.ai/zh/settings,Lynote,,d74cc227c9f45933e773f2bff35ff6b6,tablet,Italy
+20260508,2026-05-08 15:24:24,cancel_sub_reason_view,1971544493.1778223874,https://lynote.ai/zh/settings,Lynote,,3bed7b98bbbd4acd0c98eefe4eda15a9,desktop,United States
+20260508,2026-05-08 15:24:24,cancel_sub_submit,1971544493.1778223874,https://lynote.ai/zh/settings,Lynote,,3bed7b98bbbd4acd0c98eefe4eda15a9,desktop,United States
+20260508,2026-05-08 15:24:24,cancel_sub_success,1971544493.1778223874,https://lynote.ai/zh/settings,Lynote,,3bed7b98bbbd4acd0c98eefe4eda15a9,desktop,United States
+20260508,2026-05-08 03:15:02,cancel_sub_reason_view,935366677.1777864573,https://lynote.ai/settings,Lynote,,d7027486611bafa2213fa0fe9e1333ef,desktop,United States
+20260508,2026-05-08 03:15:02,cancel_sub_submit,935366677.1777864573,https://lynote.ai/settings,Lynote,,d7027486611bafa2213fa0fe9e1333ef,desktop,United States
+20260508,2026-05-08 03:15:02,cancel_sub_success,935366677.1777864573,https://lynote.ai/settings,Lynote,,d7027486611bafa2213fa0fe9e1333ef,desktop,United States
+20260508,2026-05-08 00:46:59,cancel_sub_reason_view,1269035174.1777972959,https://lynote.ai/settings,Lynote,,98a8dbb3bddcf61fe7b80af9047c5ff0,desktop,Hong Kong
+20260508,2026-05-08 00:47:06,cancel_sub_submit,1269035174.1777972959,https://lynote.ai/settings,Lynote,,98a8dbb3bddcf61fe7b80af9047c5ff0,desktop,Hong Kong
+20260508,2026-05-08 00:47:06,cancel_sub_success,1269035174.1777972959,https://lynote.ai/settings,Lynote,,98a8dbb3bddcf61fe7b80af9047c5ff0,desktop,Hong Kong
+20260512,2026-05-12 02:17:16,cancel_sub_reason_view,379249541.1777798054,https://lynote.ai/zh/pricing,Lynote,,40bf76694bf67f687a8950633f6daccc,desktop,Malaysia
+20260512,2026-05-12 02:17:23,cancel_sub_submit,379249541.1777798054,https://lynote.ai/zh/pricing,Lynote,,40bf76694bf67f687a8950633f6daccc,desktop,Malaysia
+20260512,2026-05-12 02:17:23,cancel_sub_success,379249541.1777798054,https://lynote.ai/zh/pricing,Lynote,,40bf76694bf67f687a8950633f6daccc,desktop,Malaysia
+20260512,2026-05-12 20:08:55,cancel_sub_reason_view,381706978.1778580847,https://lynote.ai/zh/pricing,Lynote,,5bbf7002216e98c64612e88456393761,desktop,Australia
+20260512,2026-05-12 20:09:00,cancel_sub_submit,381706978.1778580847,https://lynote.ai/zh/pricing,Lynote,,5bbf7002216e98c64612e88456393761,desktop,Australia
+20260512,2026-05-12 20:09:00,cancel_sub_success,381706978.1778580847,https://lynote.ai/zh/pricing,Lynote,,5bbf7002216e98c64612e88456393761,desktop,Australia
+20260512,2026-05-12 18:47:22,cancel_sub_reason_view,1983288619.1778582078,https://lynote.ai/pricing,Lynote,,d953854a3ca3ada1b00642084981ac84,desktop,New Zealand
+20260512,2026-05-12 18:47:22,cancel_sub_submit,1983288619.1778582078,https://lynote.ai/pricing,Lynote,,d953854a3ca3ada1b00642084981ac84,desktop,New Zealand
+20260512,2026-05-12 18:47:22,cancel_sub_success,1983288619.1778582078,https://lynote.ai/pricing,Lynote,,d953854a3ca3ada1b00642084981ac84,desktop,New Zealand
+20260512,2026-05-12 10:06:55,cancel_sub_reason_view,262089392.1778044670,https://lynote.ai/zh/pricing,Lynote,,0b16f9179d4c978a988fd509a08528a0,desktop,United States
+20260512,2026-05-12 10:06:55,cancel_sub_submit,262089392.1778044670,https://lynote.ai/zh/pricing,Lynote,,0b16f9179d4c978a988fd509a08528a0,desktop,United States
+20260512,2026-05-12 10:06:55,cancel_sub_success,262089392.1778044670,https://lynote.ai/zh/pricing,Lynote,,0b16f9179d4c978a988fd509a08528a0,desktop,United States
+20260512,2026-05-12 16:02:13,cancel_sub_reason_view,1471792724.1777897156,https://lynote.ai/zh/pricing,Lynote,,934cbd534a4b94be00eb40bbe4c1a482,desktop,Australia
+20260512,2026-05-12 16:02:19,cancel_sub_submit,1471792724.1777897156,https://lynote.ai/zh/pricing,Lynote,,934cbd534a4b94be00eb40bbe4c1a482,desktop,Australia
+20260512,2026-05-12 16:02:19,cancel_sub_success,1471792724.1777897156,https://lynote.ai/zh/pricing,Lynote,,934cbd534a4b94be00eb40bbe4c1a482,desktop,Australia
+20260512,2026-05-12 20:55:17,cancel_sub_reason_view,704367639.1778523079,https://lynote.ai/zh/pricing,Lynote,,0ba271e9956aa7e55c8fa72a8ed9e6b4,desktop,Malaysia
+20260512,2026-05-12 20:55:25,cancel_sub_submit,704367639.1778523079,https://lynote.ai/zh/pricing,Lynote,,0ba271e9956aa7e55c8fa72a8ed9e6b4,desktop,Malaysia
+20260512,2026-05-12 20:55:25,cancel_sub_success,704367639.1778523079,https://lynote.ai/zh/pricing,Lynote,,0ba271e9956aa7e55c8fa72a8ed9e6b4,desktop,Malaysia
+20260511,2026-05-11 01:11:49,cancel_sub_reason_view,1975762395.1776162947,https://lynote.ai/zh/pricing,Lynote,,8296fe4412d6975572ca0612447ca31c,desktop,United Kingdom
+20260511,2026-05-11 01:11:56,cancel_sub_submit,1975762395.1776162947,https://lynote.ai/zh/pricing,Lynote,,8296fe4412d6975572ca0612447ca31c,desktop,United Kingdom
+20260511,2026-05-11 01:11:56,cancel_sub_success,1975762395.1776162947,https://lynote.ai/zh/pricing,Lynote,,8296fe4412d6975572ca0612447ca31c,desktop,United Kingdom
+20260511,2026-05-11 12:50:13,cancel_sub_reason_view,454953706.1777712029,https://lynote.ai/pricing,Lynote,,d2110e5c1f646c03e3d06fb3c219e0a5,desktop,Indonesia
+20260511,2026-05-11 12:50:23,cancel_sub_submit,454953706.1777712029,https://lynote.ai/pricing,Lynote,,d2110e5c1f646c03e3d06fb3c219e0a5,desktop,Indonesia
+20260511,2026-05-11 12:50:23,cancel_sub_success,454953706.1777712029,https://lynote.ai/pricing,Lynote,,d2110e5c1f646c03e3d06fb3c219e0a5,desktop,Indonesia
+20260511,2026-05-11 00:00:58,cancel_sub_reason_view,676805220.1772086124,https://lynote.ai/zh/pricing,Lynote,,31d96eed77c77511ed6ab181273e48fd,desktop,United Kingdom
+20260511,2026-05-11 00:00:58,cancel_sub_submit,676805220.1772086124,https://lynote.ai/zh/pricing,Lynote,,31d96eed77c77511ed6ab181273e48fd,desktop,United Kingdom
+20260511,2026-05-11 00:01:04,cancel_sub_success,676805220.1772086124,https://lynote.ai/zh/pricing,Lynote,,31d96eed77c77511ed6ab181273e48fd,desktop,United Kingdom
+20260511,2026-05-11 08:15:09,cancel_sub_reason_view,1310308736.1778458373,https://lynote.ai/pricing,Lynote,,dc173786f26c6af823e615813b1e2db1,mobile,United States
+20260511,2026-05-11 08:15:17,cancel_sub_submit,1310308736.1778458373,https://lynote.ai/pricing,Lynote,,dc173786f26c6af823e615813b1e2db1,mobile,United States
+20260511,2026-05-11 08:15:17,cancel_sub_success,1310308736.1778458373,https://lynote.ai/pricing,Lynote,,dc173786f26c6af823e615813b1e2db1,mobile,United States
+20260511,2026-05-11 11:04:20,cancel_sub_reason_view,127628986.1778194845,https://lynote.ai/zh/pricing,Lynote,,24a36e8c71090433204ec7c4976da293,desktop,Singapore
+20260511,2026-05-11 11:04:20,cancel_sub_submit,127628986.1778194845,https://lynote.ai/zh/pricing,Lynote,,24a36e8c71090433204ec7c4976da293,desktop,Singapore
+20260511,2026-05-11 11:04:20,cancel_sub_success,127628986.1778194845,https://lynote.ai/zh/pricing,Lynote,,24a36e8c71090433204ec7c4976da293,desktop,Singapore
+20260511,2026-05-11 04:38:36,cancel_sub_reason_view,908524164.1778438110,https://lynote.ai/pricing,Lynote,,e7eac9d0d1831310e77a709ff6784554,desktop,United Kingdom
+20260511,2026-05-11 04:38:52,cancel_sub_submit,908524164.1778438110,https://lynote.ai/pricing,Lynote,,e7eac9d0d1831310e77a709ff6784554,desktop,United Kingdom
+20260511,2026-05-11 04:38:52,cancel_sub_success,908524164.1778438110,https://lynote.ai/pricing,Lynote,,e7eac9d0d1831310e77a709ff6784554,desktop,United Kingdom
+20260511,2026-05-11 20:39:15,cancel_sub_reason_view,1587544431.1776606704,https://lynote.ai/pricing,Lynote,,32f58b8ec7944e762ac01e6cbe84007e,desktop,Malaysia
+20260511,2026-05-11 20:39:23,cancel_sub_submit,1587544431.1776606704,https://lynote.ai/pricing,Lynote,,32f58b8ec7944e762ac01e6cbe84007e,desktop,Malaysia
+20260511,2026-05-11 20:39:23,cancel_sub_success,1587544431.1776606704,https://lynote.ai/pricing,Lynote,,32f58b8ec7944e762ac01e6cbe84007e,desktop,Malaysia
+20260511,2026-05-11 18:31:42,cancel_sub_reason_view,1859178950.1776600873,https://lynote.ai/zh/pricing,Lynote,,5ec581f76cc35a7783cacaccbdcf7b1f,desktop,China
+20260511,2026-05-11 18:31:48,cancel_sub_submit,1859178950.1776600873,https://lynote.ai/zh/pricing,Lynote,,5ec581f76cc35a7783cacaccbdcf7b1f,desktop,China
+20260511,2026-05-11 18:31:48,cancel_sub_success,1859178950.1776600873,https://lynote.ai/zh/pricing,Lynote,,5ec581f76cc35a7783cacaccbdcf7b1f,desktop,China
+20260511,2026-05-11 05:15:51,cancel_sub_reason_view,23924251.1773418695,https://lynote.ai/zh/pricing,Lynote,,2d233fa0cac5be39a642405eead8d79c,desktop,United Kingdom
+20260511,2026-05-11 05:15:51,cancel_sub_submit,23924251.1773418695,https://lynote.ai/zh/pricing,Lynote,,2d233fa0cac5be39a642405eead8d79c,desktop,United Kingdom
+20260511,2026-05-11 05:15:51,cancel_sub_success,23924251.1773418695,https://lynote.ai/zh/pricing,Lynote,,2d233fa0cac5be39a642405eead8d79c,desktop,United Kingdom
+20260511,2026-05-11 17:37:50,cancel_sub_reason_view,690243251.1778063122,https://lynote.ai/zh/pricing,Lynote,,bc97aa29dffe8cf04e77d7ef092de315,desktop,New Zealand
+20260511,2026-05-11 17:37:57,cancel_sub_submit,690243251.1778063122,https://lynote.ai/zh/pricing,Lynote,,bc97aa29dffe8cf04e77d7ef092de315,desktop,New Zealand
+20260511,2026-05-11 17:37:57,cancel_sub_success,690243251.1778063122,https://lynote.ai/zh/pricing,Lynote,,bc97aa29dffe8cf04e77d7ef092de315,desktop,New Zealand
+20260507,2026-05-07 22:36:21,cancel_sub_reason_view,1927199596.1778163523,https://lynote.ai/zh/settings,Lynote,,4c18682f7a2ec89cbf6fd2d0fef1bbe1,desktop,Australia
+20260507,2026-05-07 22:36:21,cancel_sub_submit,1927199596.1778163523,https://lynote.ai/zh/settings,Lynote,,4c18682f7a2ec89cbf6fd2d0fef1bbe1,desktop,Australia
+20260507,2026-05-07 22:36:21,cancel_sub_success,1927199596.1778163523,https://lynote.ai/zh/settings,Lynote,,4c18682f7a2ec89cbf6fd2d0fef1bbe1,desktop,Australia
+20260507,2026-05-07 21:21:20,cancel_sub_reason_view,1471402925.1778149539,https://lynote.ai/settings,Lynote,,7d6fe962beb15dc27c8bf7378a1101b5,desktop,China
+20260507,2026-05-07 21:21:20,cancel_sub_submit,1471402925.1778149539,https://lynote.ai/settings,Lynote,,7d6fe962beb15dc27c8bf7378a1101b5,desktop,China
+20260507,2026-05-07 21:21:20,cancel_sub_success,1471402925.1778149539,https://lynote.ai/settings,Lynote,,7d6fe962beb15dc27c8bf7378a1101b5,desktop,China
+20260507,2026-05-07 11:57:34,cancel_sub_reason_view,1772089355.1777904523,https://lynote.ai/zh/settings,Lynote,,1bff34b582a9f627fd480c8f6a729cfa,desktop,Australia
+20260507,2026-05-07 11:57:34,cancel_sub_submit,1772089355.1777904523,https://lynote.ai/zh/settings,Lynote,,1bff34b582a9f627fd480c8f6a729cfa,desktop,Australia
+20260507,2026-05-07 11:57:34,cancel_sub_success,1772089355.1777904523,https://lynote.ai/zh/settings,Lynote,,1bff34b582a9f627fd480c8f6a729cfa,desktop,Australia
+20260507,2026-05-07 23:27:47,cancel_sub_reason_view,618774511.1777255054,https://lynote.ai/settings,Lynote,,3e3851d5050d32dcf60cdcae437c32ef,desktop,United States
+20260507,2026-05-07 23:27:51,cancel_sub_submit,618774511.1777255054,https://lynote.ai/settings,Lynote,,3e3851d5050d32dcf60cdcae437c32ef,desktop,United States
+20260507,2026-05-07 23:27:51,cancel_sub_success,618774511.1777255054,https://lynote.ai/settings,Lynote,,3e3851d5050d32dcf60cdcae437c32ef,desktop,United States
+20260507,2026-05-07 03:32:12,cancel_sub_reason_view,1551857193.1778094492,https://lynote.ai/zh/settings,Lynote,,71b5acdca4dc6a08e4e918a3e29541eb,desktop,Singapore
+20260507,2026-05-07 03:32:17,cancel_sub_submit,1551857193.1778094492,https://lynote.ai/zh/settings,Lynote,,71b5acdca4dc6a08e4e918a3e29541eb,desktop,Singapore
+20260507,2026-05-07 03:32:17,cancel_sub_success,1551857193.1778094492,https://lynote.ai/zh/settings,Lynote,,71b5acdca4dc6a08e4e918a3e29541eb,desktop,Singapore
+20260507,2026-05-07 20:28:30,cancel_sub_reason_view,926866912.1777515316,https://lynote.ai/zh/settings,Lynote,,46bfaa19b2adb13f73f3df077ff67992,desktop,United States
+20260507,2026-05-07 20:28:30,cancel_sub_submit,926866912.1777515316,https://lynote.ai/zh/settings,Lynote,,46bfaa19b2adb13f73f3df077ff67992,desktop,United States
+20260507,2026-05-07 20:28:37,cancel_sub_success,926866912.1777515316,https://lynote.ai/zh/settings,Lynote,,46bfaa19b2adb13f73f3df077ff67992,desktop,United States
+20260507,2026-05-07 09:55:05,cancel_sub_reason_view,1879722591.1777560651,https://lynote.ai/zh/settings,Lynote,,552fd6b5fab99e9a1f6f283df9e217ae,desktop,United States
+20260507,2026-05-07 09:55:23,cancel_sub_submit,1879722591.1777560651,https://lynote.ai/zh/settings,Lynote,,552fd6b5fab99e9a1f6f283df9e217ae,desktop,United States
+20260507,2026-05-07 09:55:23,cancel_sub_success,1879722591.1777560651,https://lynote.ai/zh/settings,Lynote,,552fd6b5fab99e9a1f6f283df9e217ae,desktop,United States
+20260507,2026-05-07 17:30:22,cancel_sub_reason_view,63485300.1777534064,https://lynote.ai/zh/settings,Lynote,,fc3ced22d7739fd9a01916e0823057f2,desktop,Australia
+20260507,2026-05-07 17:30:29,cancel_sub_submit,63485300.1777534064,https://lynote.ai/zh/settings,Lynote,,fc3ced22d7739fd9a01916e0823057f2,desktop,Australia
+20260507,2026-05-07 17:30:29,cancel_sub_success,63485300.1777534064,https://lynote.ai/zh/settings,Lynote,,fc3ced22d7739fd9a01916e0823057f2,desktop,Australia
+20260506,2026-05-06 23:09:59,cancel_sub_reason_view,2142962559.1778079408,https://lynote.ai/zh/settings,Lynote,,e540f9e4063be941595ab2abc1ace505,desktop,Singapore
+20260506,2026-05-06 23:09:59,cancel_sub_submit,2142962559.1778079408,https://lynote.ai/zh/settings,Lynote,,e540f9e4063be941595ab2abc1ace505,desktop,Singapore
+20260506,2026-05-06 23:09:59,cancel_sub_success,2142962559.1778079408,https://lynote.ai/zh/settings,Lynote,,e540f9e4063be941595ab2abc1ace505,desktop,Singapore
+20260506,2026-05-06 10:13:14,cancel_sub_reason_view,20377330.1778033065,https://lynote.ai/zh/settings,Lynote,,20c166ede641c95894b0595eafeab6f0,desktop,Italy
+20260506,2026-05-06 10:13:22,cancel_sub_submit,20377330.1778033065,https://lynote.ai/zh/settings,Lynote,,20c166ede641c95894b0595eafeab6f0,desktop,Italy
+20260506,2026-05-06 10:13:22,cancel_sub_success,20377330.1778033065,https://lynote.ai/zh/settings,Lynote,,20c166ede641c95894b0595eafeab6f0,desktop,Italy
+20260506,2026-05-06 20:09:32,cancel_sub_reason_view,1990454805.1778064720,https://lynote.ai/zh/settings,Lynote,,8df377bcb5b5a614b26aa78265eb8b9d,desktop,Australia
+20260506,2026-05-06 20:09:40,cancel_sub_submit,1990454805.1778064720,https://lynote.ai/zh/settings,Lynote,,8df377bcb5b5a614b26aa78265eb8b9d,desktop,Australia
+20260506,2026-05-06 20:09:40,cancel_sub_success,1990454805.1778064720,https://lynote.ai/zh/settings,Lynote,,8df377bcb5b5a614b26aa78265eb8b9d,desktop,Australia
+20260506,2026-05-06 03:34:33,cancel_sub_reason_view,717671509.1778009352,https://lynote.ai/zh/settings,Lynote,,0df7ff1a0728655ce89b7d5f72a9d0ae,desktop,Sweden
+20260506,2026-05-06 03:34:33,cancel_sub_submit,717671509.1778009352,https://lynote.ai/zh/settings,Lynote,,0df7ff1a0728655ce89b7d5f72a9d0ae,desktop,Sweden
+20260506,2026-05-06 03:34:33,cancel_sub_success,717671509.1778009352,https://lynote.ai/zh/settings,Lynote,,0df7ff1a0728655ce89b7d5f72a9d0ae,desktop,Sweden
+20260506,2026-05-06 08:35:13,cancel_sub_reason_view,859960153.1778025843,https://lynote.ai/fr/settings,Lynote,,09794402d9ef5ef723369ca7e2c7a685,desktop,Belgium
+20260506,2026-05-06 08:35:30,cancel_sub_submit,859960153.1778025843,https://lynote.ai/fr/settings,Lynote,,09794402d9ef5ef723369ca7e2c7a685,desktop,Belgium
+20260506,2026-05-06 08:35:30,cancel_sub_success,859960153.1778025843,https://lynote.ai/fr/settings,Lynote,,09794402d9ef5ef723369ca7e2c7a685,desktop,Belgium
+20260506,2026-05-06 15:26:07,cancel_sub_reason_view,1618287687.1778004119,https://lynote.ai/es/settings,Lynote,,5200b7850f9ab5789b2098e53f43dbd3,desktop,Spain
+20260506,2026-05-06 15:26:07,cancel_sub_submit,1618287687.1778004119,https://lynote.ai/es/settings,Lynote,,5200b7850f9ab5789b2098e53f43dbd3,desktop,Spain
+20260506,2026-05-06 15:26:07,cancel_sub_success,1618287687.1778004119,https://lynote.ai/es/settings,Lynote,,5200b7850f9ab5789b2098e53f43dbd3,desktop,Spain
+20260506,2026-05-06 16:41:28,cancel_sub_reason_view,1534423609.1778055625,https://lynote.ai/zh/settings,Lynote,,ea74ac19b6f1dd1b0f8aefa5bfde0946,desktop,Hong Kong
+20260506,2026-05-06 16:41:35,cancel_sub_submit,1534423609.1778055625,https://lynote.ai/zh/settings,Lynote,,ea74ac19b6f1dd1b0f8aefa5bfde0946,desktop,Hong Kong
+20260506,2026-05-06 16:41:35,cancel_sub_success,1534423609.1778055625,https://lynote.ai/zh/settings,Lynote,,ea74ac19b6f1dd1b0f8aefa5bfde0946,desktop,Hong Kong
+20260506,2026-05-06 23:39:49,cancel_sub_reason_view,1066792652.1778080118,https://lynote.ai/pt/settings,Lynote,,781414c09c2d9bbf7635dee9dc5b80e3,desktop,Brazil
+20260506,2026-05-06 23:39:49,cancel_sub_submit,1066792652.1778080118,https://lynote.ai/pt/settings,Lynote,,781414c09c2d9bbf7635dee9dc5b80e3,desktop,Brazil
+20260506,2026-05-06 23:39:54,cancel_sub_success,1066792652.1778080118,https://lynote.ai/pt/settings,Lynote,,781414c09c2d9bbf7635dee9dc5b80e3,desktop,Brazil
+20260506,2026-05-06 16:09:51,cancel_sub_reason_view,1271365623.1778051052,https://lynote.ai/zh/settings,Lynote,,7d5c30030c685c609ee810cde3dcfa9c,desktop,France
+20260506,2026-05-06 16:09:51,cancel_sub_submit,1271365623.1778051052,https://lynote.ai/zh/settings,Lynote,,7d5c30030c685c609ee810cde3dcfa9c,desktop,France
+20260506,2026-05-06 16:09:51,cancel_sub_success,1271365623.1778051052,https://lynote.ai/zh/settings,Lynote,,7d5c30030c685c609ee810cde3dcfa9c,desktop,France
+20260506,2026-05-06 17:04:38,cancel_sub_reason_view,1678901330.1778056643,https://lynote.ai/zh/settings,Lynote,,c2c58961a66aaa8b90344256dd9a677e,desktop,Australia
+20260506,2026-05-06 17:04:46,cancel_sub_submit,1678901330.1778056643,https://lynote.ai/zh/settings,Lynote,,c2c58961a66aaa8b90344256dd9a677e,desktop,Australia
+20260506,2026-05-06 17:04:46,cancel_sub_success,1678901330.1778056643,https://lynote.ai/zh/settings,Lynote,,c2c58961a66aaa8b90344256dd9a677e,desktop,Australia
+20260506,2026-05-06 08:38:05,cancel_sub_reason_view,927912975.1778024637,https://lynote.ai/zh/settings,Lynote,,b54bad8b2fb21f04683f2ccc360fdb41,desktop,United Kingdom
+20260506,2026-05-06 08:38:05,cancel_sub_submit,927912975.1778024637,https://lynote.ai/zh/settings,Lynote,,b54bad8b2fb21f04683f2ccc360fdb41,desktop,United Kingdom
+20260506,2026-05-06 08:38:05,cancel_sub_success,927912975.1778024637,https://lynote.ai/zh/settings,Lynote,,b54bad8b2fb21f04683f2ccc360fdb41,desktop,United Kingdom
+20260506,2026-05-06 00:41:44,cancel_sub_reason_view,1324199507.1777998388,https://lynote.ai/de/settings,Lynote,,16065e01c3524b18ac91c2e1ff0ca2b8,desktop,Germany
+20260506,2026-05-06 00:41:52,cancel_sub_submit,1324199507.1777998388,https://lynote.ai/de/settings,Lynote,,16065e01c3524b18ac91c2e1ff0ca2b8,desktop,Germany
+20260506,2026-05-06 00:41:52,cancel_sub_success,1324199507.1777998388,https://lynote.ai/de/settings,Lynote,,16065e01c3524b18ac91c2e1ff0ca2b8,desktop,Germany
+20260513,2026-05-13 16:05:28,cancel_sub_reason_view,1773353471.1778393642,https://lynote.ai/pricing,Lynote,,b8a449638ef22a9303f4d2ddf91ab47a,desktop,China
+20260513,2026-05-13 16:05:35,cancel_sub_submit,1773353471.1778393642,https://lynote.ai/pricing,Lynote,,b8a449638ef22a9303f4d2ddf91ab47a,desktop,China
+20260513,2026-05-13 16:05:35,cancel_sub_success,1773353471.1778393642,https://lynote.ai/pricing,Lynote,,b8a449638ef22a9303f4d2ddf91ab47a,desktop,China
